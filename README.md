@@ -1,4 +1,4 @@
-# belajar_flutter_batch_2
+# PROJECT FLUTTER 2
 
 A new Flutter project.
 
