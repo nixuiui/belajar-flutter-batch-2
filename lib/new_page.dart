@@ -12,7 +12,7 @@ class _NewPageState extends State<NewPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('New Page'),
+        title: const Text('New Page 1'),
       ),
     );
   }
