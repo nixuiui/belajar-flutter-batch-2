@@ -1,4 +1,4 @@
-import 'package:belajar_flutter_batch_2/telegram.dart';
+import 'package:belajar_flutter_batch_2/my_home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: false,
       ),
-      home: const TelegramPage(),
+      home: const MyHomePage(),
     );
   }
 }
